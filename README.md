@@ -86,14 +86,14 @@ $ git push narumi narumi_work
 ```
 
 ### GitHubのWEBのUIからプルリクエストを発行する
-自身のフォーク先のページのPull requestsボタンを押下
+自身のフォーク先のページのPull requestsボタンを押下  
 ![images/3.png](images/3.png)
-New pull requestsボタンを押下
+New pull requestsボタンを押下  
 ![images/4.png](images/4.png)
 ①を変更を適応したいブランチに指定(例. haoming37/haoming-main)  
-②を自身の作成したブランチに指定(例. narumi/narumi_workなど)
-③Create pull requestを押下する
+②を自身の作成したブランチに指定(例. narumi/narumi_workなど)  
+③Create pull requestを押下する  
 ![images/5.png](images/5.png)
 変更内容などの説明を入力する画面が出てくるのでなんとなくで記入する  
-Create pull requestボタンを押下したら終了
+Create pull requestボタンを押下したら終了  
 ![images/6.png](images/6.png)
